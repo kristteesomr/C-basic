@@ -1,4 +1,6 @@
 // TAO HANG SO
+// Tạo file header link với src
+// namespace tự tạo
 #include <iostream>
 #include "Constants.h" // include header file sử dụng file tự tạo
 #define e 2.71 //Cach 1
