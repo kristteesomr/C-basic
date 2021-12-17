@@ -1,3 +1,4 @@
+// Biến tĩnh trong C++ (mới)
 #include <iostream>
 using namespace std;
 
