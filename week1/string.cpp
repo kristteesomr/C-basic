@@ -1,4 +1,5 @@
-// NHAP XUAT string voi getline(cin,a,...)
+// NHAP XUAT string có dấu cách voi getline(cin,a,...)
+// Xóa bộ nhớ đêm cin.ignore(32767,'\n')
 #include <iostream>
 #include <string>
 using namespace std;
