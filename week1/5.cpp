@@ -1,4 +1,4 @@
-// Alignment
+// Alignment sử dụng thư viện iomanip
 #include <iostream>
 #include <iomanip> // thu vien cua setw() , setfill()
 using namespace std;
